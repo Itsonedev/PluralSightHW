@@ -2,11 +2,15 @@
 # PluralSight sections 1, 2, 3, 4, 7
 #1: Course Overview
 Short introduction to what will be covered in the collections course
+
 #2: What are Collections and why use them?
 This section goes into detail about how Arrays are not extendable values you can not add things to an Array. Implementing data structures is Hard! We will cover Lists, Maps, Streams Collection operations, factories and sets. All of the different collections extend from the collection interface. The narrator then when on to list all of the different actions that collections can take in. This section basically covers why collections exist and how they can and will help us when we code.
+
 #3: Collections with iteration order: Lists
 Lists are a collection that have an iteration order. All elements have an index number for where the element is placed. Lists have various features that are unique to the list collections. The next video goes over various ways to add and remove things from a list and how to run unit tests on certain methods, I do not know how to run Unit tests just yet but I plan to learn in the next week. The next topic that is discussed that I did not know about before is a Split Point and how to find a split point within a list. The remove If method is something I also believe will be very valuable to me in the future. The two implementations of lists that were covered were, ArrayList and LinkedList. ArrayList is the preferred list and is used most often out of most collections. When it comes to performance between the two implementations ArrayList is much better. 
+
 #4: Storing Key / Value Pairs: Maps
 In this module we cover the use cases for maps, views over maps, some of the advanced operations and the implementations. Maps associate Keys and Values. First thing is the Use cases. With the map there are a lot of different operation keys to use in comparison to some of the other cities. Map is the only collections that don’t extend or implement the collection interface. There are multiple different ways to remove an item. HashMap<Type, Type>(). Next there was a discussion about Altering and removing. The advanced operations being covered are Replace, replaceAll and remove. The implementations for Maps covered in this section were HashMaps and TreeMaps.  HashMaps are faster than TreeMaps. 
+
 #7: Collections with Uniqueness: Sets
 Sets are collections of distinct elements. There are no duplicates in a Set. This module goes over set Features, Hashcode and equals and all of the set implementations. Errors will happen when there are duplicates within the list. Sets automatically will remove duplicates from the list making it very easy to code with. HashCode equals contract. There is reference based equality and value based equality.  Hash Set and TreeSet are the implementations covered In this module. TreeSets are for when you have elements that are in a particular order. Specialized implementations include LinkedHashSet and EnumSet. A SortedSet defines an order.  Sets are a very commonly used collection. Collections are extremely important to writing simple and effective code.
