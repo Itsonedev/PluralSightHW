@@ -1,5 +1,5 @@
 ![PSstuff](https://github.com/Itsonedev/PluralSightHW/assets/143683663/617a65e3-4cf9-4bc7-87ff-3f33664e7922)
-# PluralSight sections 1, 2, 3, 4, 7
+# PluralSight sections 1, 2, 3, 4, 7 as well as 100% completed interavtives
 #1: Course Overview
 Short introduction to what will be covered in the collections course
 
