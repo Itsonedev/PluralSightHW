@@ -1,4 +1,4 @@
-![PSstuff](https://github.com/Itsonedev/Pluralsightvideos/assets/143683663/895336dd-9378-454a-8bfa-2821aee35dbd)
+![PSstuff](https://github.com/Itsonedev/PluralSightHW/assets/143683663/617a65e3-4cf9-4bc7-87ff-3f33664e7922)
 # PluralSight sections 1, 2, 3, 4, 7
 #1: Course Overview
 Short introduction to what will be covered in the collections course
